@@ -20,6 +20,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 #Dataset:
 
 https://www.kaggle.com/bhartiprasad17/customer-churn-prediction/data
+
 The data set includes information about:
 Customers who left within the last month – the column is called Churn
 Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
@@ -29,7 +30,7 @@ Demographic info about customers – gender, age range, and if they have partner
 # Implementation:
 Libraries: sklearn, Matplotlib, pandas, seaborn, and NumPy
 
-#Few Glimpses:
+# Few Glimpses:
 
 # 1. Churn Distribution:
 ![image](https://user-images.githubusercontent.com/86373401/197398295-f7d7499b-fdcb-49fe-ac22-7b557340678f.png)
